@@ -1,3 +1,3 @@
-FROM livebook/livebook
+FROM livebook/livebook:edge
 
 CMD ["/app/bin/livebook", "start"]
