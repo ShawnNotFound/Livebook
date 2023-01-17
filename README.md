@@ -2,4 +2,4 @@
 
 This is a template for deplying Livebook on [Railway.app](https://railway.app)
 
-LIVEBOOK_PASSWORD=supercalifragilisticexpialidocious and must be changed immediately unless you're ok with everyone using your Livebook 😉
+LIVEBOOK_PASSWORD=supercalifragilisticexpialidocious and must be changed immediately unless you're ok with everyone using your Livebook 😉.  You'll need it to sign in initially.
